@@ -19,7 +19,7 @@ Class(withbolt or withoutbolt) of the image will be printed and if the image bel
 Following all this image will pop up with the class writen on the heading of it. If the image belongs to the withbolt class then rectangular bounding box will also be shown in the image, press any key disapper the shown image and then the class and the coordinates will get printed.
 
 ## Additional information:
--> The two image you provided, I augmented it and make to 4860 images.
+-> I augmented the two images and make them to 4860 images.
 
 -> The classifier for cropped images(also augmented) I build is based on resnet34. Has accuracy about 92%
 
